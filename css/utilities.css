@@ -32,6 +32,7 @@
     background: #B22222;
     border: 1px solid #fff;
 }
+
 /* flex-columns */
 .flex-columns .row {
     display: flex;
