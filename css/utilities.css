@@ -6,3 +6,19 @@
 .text-secondary {
     color: #B22222;
 }
+
+/* Button Styling */
+.btn {
+    cursor: pointer;
+    display: inline-block; /*investigate this*/
+    color: #fff;
+    background-color: #B22222;
+    padding: 10px 30px;
+    border: none;
+    border-radius: 10px;
+    opacity: 0.8;
+}
+
+.btn:hover {
+    opacity: 1;
+}
