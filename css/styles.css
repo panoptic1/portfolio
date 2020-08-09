@@ -88,6 +88,8 @@ img {
     color: #fff;
 }
 
-/* About */
+.projects img:hover {
+    opacity: 0.7;
+}
 
-
+/* Callback form */
