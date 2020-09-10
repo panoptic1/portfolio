@@ -142,3 +142,13 @@ img {
 .footer i {
     color: #fff;
 }
+
+#selfie-container {
+    max-width: 50%;
+    margin: 0 auto;
+    padding: 50px;
+}
+
+#selfie {
+    box-shadow: 0 2px 5px #4682B4;
+}
