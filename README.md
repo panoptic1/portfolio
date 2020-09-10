@@ -1,1 +1,3 @@
 # portfolio
+
+NOT YET FULLY IMPLEMENTED
